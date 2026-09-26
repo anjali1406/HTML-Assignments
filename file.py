@@ -1,1 +1,1 @@
-some content
+print("full request assignment")some content
